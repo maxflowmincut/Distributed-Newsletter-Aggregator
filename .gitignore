@@ -1,0 +1,17 @@
+*.o
+*.out
+*.dll
+
+*.exe
+*.test
+bin/
+
+*.db
+
+tmp/
+logs/
+database/
+src/curation/cpp/lib/
+src/tests
+
+*.env
