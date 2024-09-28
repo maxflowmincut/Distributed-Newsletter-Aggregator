@@ -1,9 +1,9 @@
 <h1 align="center">Distributed-Newsletter-Aggregator</h1>
 <p align="center">
-    <a href="https://github.com/imaad-f/Distributed-Newsletter-Aggregator/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/imaad-f/Distributed-Newsletter-Aggregator"></a>
-    <a href="https://github.com/imaad-f/Distributed-Newsletter-Aggregator/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/imaad-f/Distributed-Newsletter-Aggregator"></a>
-    <a href="https://github.com/imaad-f/Distributed-Newsletter-Aggregator/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/imaad-f/Distributed-Newsletter-Aggregator"></a>
-    <a href="https://github.com/imaad-f/Distributed-Newsletter-Aggregator/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/imaad-f/Distributed-Newsletter-Aggregator"></a>
+    <a href="https://github.com/maxflowmincut/Distributed-Newsletter-Aggregator/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/maxflowmincut/Distributed-Newsletter-Aggregator"></a>
+    <a href="https://github.com/maxflowmincut/Distributed-Newsletter-Aggregator/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/maxflowmincut/Distributed-Newsletter-Aggregator"></a>
+    <a href="https://github.com/maxflowmincut/Distributed-Newsletter-Aggregator/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/maxflowmincut/Distributed-Newsletter-Aggregator"></a>
+    <a href="https://github.com/maxflowmincut/Distributed-Newsletter-Aggregator/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/maxflowmincut/Distributed-Newsletter-Aggregator"></a>
 </p>
 
 #
@@ -36,7 +36,7 @@
 **Clone the repository**
 
 ```shell
-git clone https://github.com/imaad-f/Distributed-Newsletter-Aggregator.git
+git clone https://github.com/maxflowmincut/Distributed-Newsletter-Aggregator.git
 cd Distributed-Newsletter-Aggregator
 ```
 
@@ -139,6 +139,3 @@ If you would like to help contribute, please don't hesitate to open a pull reque
 
 ## License 📄
 This project is licensed under GPL-3.0 - see the [LICENSE](./LICENSE) file for further details.
-
-## Support 🎁
-Give a ⭐️ if this project was of any help!
